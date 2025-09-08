@@ -1,6 +1,6 @@
 # 🌐 Network Project – Company A & Company B
 ## 🖥️ Topology
-<img width="958" height="561" alt="image" src="https://github.com/user-attachments/assets/0f4863a4-47c5-481e-b480-5cfa25a209df" />
+<img width="962" height="568" alt="image" src="https://github.com/user-attachments/assets/294ad064-4d0b-4f74-9c29-974501f78c82" />
 
 ## 🎯 Objectives
 Xây dựng hệ thống mạng cho *Công ty A* và *Công ty B*, đảm bảo:
