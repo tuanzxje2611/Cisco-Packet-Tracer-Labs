@@ -14,7 +14,7 @@ Dự án này mô phỏng một **Enterprise WAN Network** kết nối nhiều c
 ---
 
 ## 🌐 Sơ đồ mạng
-<img width="891" height="656" alt="image" src="https://github.com/user-attachments/assets/xxxxxx" />
+<img width="1618" height="718" alt="image" src="https://github.com/user-attachments/assets/823b07eb-7095-4224-8ae6-218b673b2111" />
 
 ---
 
